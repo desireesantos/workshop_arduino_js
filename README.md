@@ -29,14 +29,14 @@ npm install
 ## Executando os exemplos
 
 
-[Hello, World](examples/01-hello.js) and [Modified Hello World](examples/02-hello-stop.js) don't require any wiring except plugging Arduino into USB on your computer.
+Exeemplo [Led, Blink](https://github.com/desireesantos/workshop_arduino_js/blob/master/exemplos/01-led-blink.js).
 
 ```
-node examples/01-hello.js
+node examples/01-led-blink.js
 ```
 
 ```
-node examples/02-hello-stop.js
+node examples/02-led-pulse.js
 ```
 
 Esse tutorial para controlar arduino programando em javascript tem como base os exemplos da [Lyza Danger Gardner](git://github.com/lyzadanger/jsot-johnny-five.git).

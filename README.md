@@ -5,7 +5,7 @@
 
 1. Instale [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
-2. Instale a versão mais atual do [nodejs]
+2. Instale a versão mais atual do [nodejs](https://nodejs.org/en/). A versão instalada deve suportar actionscript 6.
 
 
 ### Johnny-Five e dependências

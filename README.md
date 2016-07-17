@@ -40,3 +40,4 @@ node examples/02-led-pulse.js
 ```
 
 Esse tutorial para controlar arduino programando em javascript tem como base os exemplos da [Lyza Danger Gardner](https://github.com/lyzadanger/jsot-johnny-five).
+Slide do [workshop](http://www.slideshare.net/desisant/programando-arduino-com-javascript-64092303)

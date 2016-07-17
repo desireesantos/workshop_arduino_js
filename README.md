@@ -1,5 +1,6 @@
 # Johnny-Five para controlar arduino
-Slide do [workshop](http://www.slideshare.net/desisant/programando-arduino-com-javascript-64092303)
+Material foi criado para workshop *Programando arduino com Javascript* utilizando o framework[Johnny-five](http://johnny-five.io/). [Slide](http://www.slideshare.net/desisant/programando-arduino-com-javascript-64092303)
+utilizado na apresentação.
 
 ### Requisitos
 
@@ -11,7 +12,7 @@ Slide do [workshop](http://www.slideshare.net/desisant/programando-arduino-com-j
 ### Johnny-Five e dependências
 
 ```
-git clone
+git clone git@github.com:desireesantos/workshop_arduino_js.git
 cd workshop_arduino_js
 npm install
 ```
@@ -22,21 +23,19 @@ npm install
 2. Conectar arduino Uno no USB do computador
 3. IDE arduino menu: `Arquivo -> Exemplos` , `Firmata` e selecione `StandardFirmata`
 4. Faça upload the `StandardFirmata` sketch para o Arduino
-5. Execute os exemplos
 
 
 
 ## Executando os exemplos
 
-
-Exemplo [Led - Pisca pisca](https://github.com/desireesantos/workshop_arduino_js/blob/master/exemplos/01-led-blink.js).
-
-```
-node examples/01-led-blink.js
-```
+Exemplo [Led pisca pisca](https://github.com/desireesantos/workshop_arduino_js/blob/master/exemplos/01-led-blink.js).
 
 ```
-node examples/02-led-pulse.js
+node exemplos/01-led-blink.js
+```
+
+```
+node exemplos/02-led-pulse.js
 ```
 
 Esse tutorial para controlar arduino programando em javascript tem como base os exemplos da [Lyza Danger Gardner](https://github.com/lyzadanger/jsot-johnny-five).

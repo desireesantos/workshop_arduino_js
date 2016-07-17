@@ -2,7 +2,7 @@ const five = require('johnny-five');
 const placa = new five.Board();
 
 placa.on('ready', () => {
-  const ver = new five.Led(13);
+  const led = new five.Led(13);
   led.pulse({
   easing: "linear",
   duration: 3000,

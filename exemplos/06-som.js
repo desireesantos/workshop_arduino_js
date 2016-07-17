@@ -4,7 +4,6 @@ var placa = new five.Board();
 placa.on("ready", function() {
 
   var piezo = new five.Piezo(3);
-
   piezo.play({
 
 // Song é composto por um conjunto de pares de notas e batidas

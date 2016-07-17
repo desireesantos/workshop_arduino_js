@@ -29,7 +29,7 @@ npm install
 ## Executando os exemplos
 
 
-Exeemplo [Led, Blink](https://github.com/desireesantos/workshop_arduino_js/blob/master/exemplos/01-led-blink.js).
+Exemplo [Led - Pisca pisca](https://github.com/desireesantos/workshop_arduino_js/blob/master/exemplos/01-led-blink.js).
 
 ```
 node examples/01-led-blink.js
@@ -39,4 +39,4 @@ node examples/01-led-blink.js
 node examples/02-led-pulse.js
 ```
 
-Esse tutorial para controlar arduino programando em javascript tem como base os exemplos da [Lyza Danger Gardner](git://github.com/lyzadanger/jsot-johnny-five.git).
+Esse tutorial para controlar arduino programando em javascript tem como base os exemplos da [Lyza Danger Gardner](https://github.com/lyzadanger/jsot-johnny-five).

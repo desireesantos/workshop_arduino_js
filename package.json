@@ -1,14 +1,14 @@
 {
   "name": "jsot-johnny-five",
   "version": "1.0.0",
-  "description": "Examples of Johnny-Five and Arduino Uno",
+  "description": "Programando arduino em javascript",
   "scripts": {
   },
-  "author": "Lyza Danger Gardner",
+  "author": "Desiree Santos",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lyzadanger/jsot-johnny-five.git"
+    "url": "git@github.com:desireesantos/workshop_arduino_js.git"
   },
   "dependencies": {
     "johnny-five": "^0.9.34"

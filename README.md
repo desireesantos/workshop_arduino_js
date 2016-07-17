@@ -1,5 +1,6 @@
 # Johnny-Five para controlar arduino
-Material foi criado para workshop *Programando arduino com Javascript* utilizando o framework[Johnny-five](http://johnny-five.io/). [Slide](http://www.slideshare.net/desisant/programando-arduino-com-javascript-64092303)
+Material foi criado para workshop *Programando arduino com Javascript* utilizando o framework [Johnny-five](http://johnny-five.io/). 
+[Slide](http://www.slideshare.net/desisant/programando-arduino-com-javascript-64092303)
 utilizado na apresentação.
 
 ### Requisitos

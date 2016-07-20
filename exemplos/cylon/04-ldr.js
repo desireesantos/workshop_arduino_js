@@ -1,5 +1,5 @@
 const Cylon = require('cylon')
-const serialPort = ''
+const serialPort = ''  //Adicione a sua porta serial aqui
 
 
 Cylon

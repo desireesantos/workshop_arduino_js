@@ -1,5 +1,5 @@
 const Cylon = require('cylon')
-const serialPort = '/dev/cu.usbmodem1421' //Adicione a sua porta serial aqui
+const serialPort = '' //Adicione a sua porta serial aqui
 
 Cylon
 	.robot({name: 'desiRobot'})
